@@ -1,5 +1,14 @@
-node-ipc
-================
+# `node-ipc` is Sabotaging Users, Poisoning Open Source, Fake Anti War
+
+# 1. It is never a proper way to protest and advocate anti-war, by writing irrelevant and `malicious` code to open source users to broadcast `your personal sentiment`.
+
+# 2. You should be `shamed` on node community, whatsoever the Stars or Forks of your project, You are `poisoning` innocent developers and the network, your personal morality should never ever be a `major part` in the supply chain. You are responsible for the code you opensouced, even there is no bottom line for this, I believe an entity like you has no bottom line of morality for being a real protester or a fighter, you are being a joke, a kindergarten kid.
+
+# 3. I just want to ask, Is R&U war the ONLY war now? Are you a _real_ protester to war, or just advocate your personal political belief? You are so `naive`
+
+# 4. The case shows the `vulnerability` of nodejs package system, a lunatic changes lines of code, the trust chain is already broken by what you did, You are just trash, Open Source Community ashamed of you.
+
+# _See that is what I do, to open a trash PR, Just Like What You DID to developers_
 
 [![Sponsor RIAEvangelist to help development of node-ipc](https://img.shields.io/static/v1?label=Sponsor%20Me%20On%20Github&message=%E2%9D%A4&logo=GitHub&link=https://github.com/sponsors/RIAEvangelist)](https://github.com/sponsors/RIAEvangelist)
 
